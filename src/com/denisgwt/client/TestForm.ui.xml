@@ -1,0 +1,7 @@
+<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
+        >
+    <div>
+        <textarea id="test1">1</textarea>
+        <textarea id="test2">1</textarea>
+    </div>
+</ui:UiBinder>
